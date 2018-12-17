@@ -1,0 +1,23 @@
+Title: Coming of age: ten years of next-generation sequencing technologies
+
+- NGS (Next Generation Sequencing) techniques are evolving, allowing us to learn more about the genome
+- Read lengths as long as entire genomes
+- Careful examination of results required, high error rates and a lot of information
+- Still relatively expensive
+- Goal: evaluate various approaches to NGS
+
+Short-read NGS:
+- Everything is being done with Illumina products
+- Tradeoff between sensitivity and specificity
+- Some error probabilities with A-T rich areas
+- Illumina is expensive though
+
+
+Long-read sequencing:
+- Because sometimes short-read is insufficient
+- PacBio RS II instrument, analogous to Sanger-based SNP validation??
+- Can take time
+- MinION --> 30% error rate
+
+Presentation Notes:
+- 
