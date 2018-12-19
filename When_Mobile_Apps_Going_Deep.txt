@@ -1,0 +1,27 @@
+Title: When Mobile Apps Going Deep: Mobile Deep Learning
+
+Abstract:
+- How is deep learning used within mobile apps
+- Analysis of apps and performance
+
+Introduction:
+- Many deep learning frameworks for smartphones i.e. TensorFlow Lite
+- Execute Deep Learning inference solely on smartphones
+- Empirical study about Android apps using Deep learning
+- Photo beauty is the top use for DL, despite obvious optimizations
+- It's easy to extract most models 
+
+Background:
+- DL is good for algorithm accuracy,  models and frameworks
+- Can use the cloud to deploy to an app
+- On cloud vs on device is a tradeoff
+
+Goal and Methodology:
+- Goal: how do apps use DL?
+- Analyzing tool to work on a large scale within apps
+- Deep Learning Sniffer
+- Look at manifest files and the deep learning models
+
+
+Application Analysis:
+- 
