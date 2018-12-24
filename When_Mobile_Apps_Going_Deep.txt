@@ -24,4 +24,24 @@ Goal and Methodology:
 
 
 Application Analysis:
-- 
+- Looking to analyze the role of Deep learning in these apps and
+how it's correlated to popularity
+- Methodology looks for the type of deep learning framework used
+from the rodata file
+- Many smartphones are running deep learning apps now
+- DL used for a variety of uses, but most of these apps are from larger companies
+that have the resources to build such apps
+- Image processing is the most popular use on apps
+- Deep Learning is used in a core feature of these apps
+- TensorFlow is the most common framework used, followed by TFLite and ncnn
+- DL Libs require a lot more storage
+
+Model Analysis:
+- Extracted DL models using a model extractor
+- Mostly CNN models, some RNN models
+- Mostly conv layers, some optimizations also used
+- Used FLOPs to measure computational complexity
+- Almost half the models are either obfuscated or encrypted
+- Most DL models are actually exposed
+
+
