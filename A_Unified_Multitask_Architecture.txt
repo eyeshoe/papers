@@ -1,0 +1,16 @@
+Title: A unified multitask architecture for predicting local protein properties
+
+Abstract:
+- Create a neural network to figure out protein properties based on amino acid sequence
+- State of the art and novel
+- What are the intricacies of this model? And what is the task presented?
+
+Introduction:
+- Using natural language processing to understand what proteins do
+- Multitask learning: train on many, related tasks
+- The tasks people have already worked on are actually interrelated
+- Train the deep neural network in a multitask fashion
+- State of the art performance on almost all tasks
+
+Methods:
+- 
