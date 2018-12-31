@@ -13,4 +13,44 @@ Introduction:
 - State of the art performance on almost all tasks
 
 Methods:
-- 
+- Prediction tasks (10 labeling that are similar)
+- Describe the series of prediction tasks and then understand how deep learning is useful
+- Secondary Structure: 
+  - general 3-d form of the protein
+  - 3 secondary structure tasks in data set
+- Topology and signal peptide prediction
+  - transmembrane topology: geometric properties of transmembrane proteins
+  - figure of merit is protein level accuracy
+- Solvent accessibility
+  - which amino acids are exposed to water and which are not
+  - metric of accuracy is labellings
+- Coiled coil regions
+  - protein structural motifs, predict where these are
+  - Paircoil algorithm dataset
+  - percent correct metric
+- DNA binding:
+  - which amino acids interact with DNA
+  - clustering then cross validation
+- Protein binding residues:
+  - binding sites for protein-protein interactions
+- Deep Neural network for each task:
+  - architecture summarized in a figure
+  - amino acid feature extraction
+  - sequential feature extraction layer
+  - classical neural network layers
+  - weight sharing strategy used
+  - pre-training strategy
+ - unlabeled sequences:
+  - useful nlp tools here
+
+Results:
+- Torch5 ML library used
+- Hypothesis: three fold
+  - learning amino acid embedding
+  - using multitask learning
+  - include natural protein task
+- Focus on accuracy evaluated at amino acid level
+- multitask architecture only improves in 7/10 times for amino acid embedding
+- 9/10 in other tasks though
+- multitask learning improves all the cases, better than state of the art
+
