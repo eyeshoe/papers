@@ -1,0 +1,13 @@
+Title: All-optical machine learning using diffractive deep neural networks
+
+Abstract:
+- Physical mechanism to perform machine learning
+- 3-d printed neural networks
+- Performs at the speed of light
+
+Paper:
+- Neural network uses diffractive layers to physically perform a function
+- Inference capabilities through stimulation and experiments as results
+- Performs computations through optical diffraction and passive optical components
+- Efficient and fast way 
+
