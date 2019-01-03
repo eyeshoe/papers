@@ -9,5 +9,14 @@ Paper:
 - Neural network uses diffractive layers to physically perform a function
 - Inference capabilities through stimulation and experiments as results
 - Performs computations through optical diffraction and passive optical components
-- Efficient and fast way 
+- Efficient and fast way: phase and amplitude of each neuron can be learned
+- Optimized using error back-prop algorithm --> based off of stochastic gradient descent
 
+Experiment:
+- Trained a digit classifier using MNIST, goal is to find the detector with max optical signal
+- Classification accuracy of 91.75%
+- Initial model improvedusing a 2 layer patch
+- 3D printed this neural network design, and numerical testing: 91.75% accuracy
+- Had some issues with 3-D printing the digit "0"
+- Next trained on the fashion MNIST database
+- As they increased the number of diffractive layers, the accuracy increased
