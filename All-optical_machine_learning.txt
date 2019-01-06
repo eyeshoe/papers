@@ -20,3 +20,9 @@ Experiment:
 - Had some issues with 3-D printing the digit "0"
 - Next trained on the fashion MNIST database
 - As they increased the number of diffractive layers, the accuracy increased
+- Slightly better match between numerical and testing results for Fashion MNIST than MNIST
+
+Conclusion:
+- all-optical is good b/c it's parallel, operates at the speed of light
+- easily scaled up
+- can create monolithic D2NNs using other methodologies than 3-d printing
