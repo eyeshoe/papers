@@ -1,0 +1,9 @@
+Title: CADS: CRISPRS Assisted DNA Steganograpy for Securing the Storage and Transfer of DNA-encoded Information
+
+Abstract:
+- DNA steganography: conceals DNA encoded messages
+- Works through "secret message" techniques and junk DNA, message extracted through PCR
+- Need more message security --> mix primers to get varying results
+- Goal is to develop a method with better security
+
+Keywords:
