@@ -7,3 +7,14 @@ Abstract:
 - Goal is to develop a method with better security
 
 Keywords:
+- The key is critical to the security of storage/transfer of data
+- CRISPR associated protein helps to create a new DNA steganography method
+- Keys are primers, need keys and the encryption rules to decode DNA messages
+- CADS is useful in creating 2 keys with real and fake primers
+- Testing the fake primer removal using Cas12a complex treatment
+- Random primers were also added to make the primer mix more robust
+
+Methods:
+- PCR, then purification and self-ligation, then inserted into the plasmid
+- Did trasncription of crRNAs and purification of Cas12a protein
+- CADS method included PCR, Sanger sequencing analysis etc. 
