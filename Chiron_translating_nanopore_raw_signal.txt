@@ -1,0 +1,8 @@
+Title: Chiron: translating nanopore raw signal directly into nucleotide sequence using deep learning
+
+Abstract:
+- Chiron is a deep learning model that doesn't ahve the error prone segmentation step
+- Chiron provides state of the art accuracy, and does it fast (2000 bases per second)
+
+Introduction:
+
