@@ -5,4 +5,12 @@ Abstract:
 - Chiron provides state of the art accuracy, and does it fast (2000 bases per second)
 
 Introduction:
+- MinION is extremely portable, also works in real time
+- Initially, basecalling was segmentation and then translation
+- Uses dynamic programming
+- Chiron is both CNN and RNN, doesn't need segmentation step
+- Chiron easily generalizes to a range of other genomes
+- Users can train their own neural network
 
+Results:
+- 
