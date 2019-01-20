@@ -13,4 +13,14 @@ Introduction:
 - Users can train their own neural network
 
 Results:
-- 
+- Segmentation free basecalling, predicts a complete DNA sequence from raw signal
+- Ground truth was Illumina technology based
+- Chiron is a little bit slower than other NN algorithms
+
+Discussion:
+- Segmentation is appealing but error-prone, so it makes conservative estimates w/ Chiron
+- Chiron saw no human data during training but was consistently either the best or second best performing algorithm
+- Can increase in accuracy and there are various methods to do so
+
+Conclusion:
+- Method is sufficiently generalizable to account for other species 
