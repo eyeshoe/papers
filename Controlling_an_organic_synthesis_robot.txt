@@ -1,0 +1,8 @@
+Title: Controlling an organic synthesis robot with ML to search for new reactivity
+
+Abstract:
+- Reaction prediction is of chemical reactions
+- Organic synthesis robot that can perform chemical reactions faster than manually
+- Machine learning for decision making
+- Testing on existing datasets and manual experiments
+- Results include the discovery of four reactions
