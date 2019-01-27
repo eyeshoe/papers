@@ -6,3 +6,12 @@ Abstract:
 - Machine learning for decision making
 - Testing on existing datasets and manual experiments
 - Results include the discovery of four reactions
+
+Method:
+- Algorithms identify non reactive experiments
+- Neural Network to predict reactions with the highest yield
+- Datasets included existing reactions and new ones
+
+Conclusions:
+- Found 4 new unique reactions
+- A valid approach, supported by statistical means
