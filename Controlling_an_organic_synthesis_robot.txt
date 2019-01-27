@@ -15,3 +15,4 @@ Method:
 Conclusions:
 - Found 4 new unique reactions
 - A valid approach, supported by statistical means
+- This robot can be used for a variety of other purposes
