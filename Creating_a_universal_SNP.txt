@@ -1,0 +1,9 @@
+Title: Creating a universal SNP and small indel variant caller with deep neural networks
+
+
+Abstract:
+- DeepVariant: works across genomes and other species
+- Goal is to build a more accurate SNP variant caller
+
+Main Text:
+- 
