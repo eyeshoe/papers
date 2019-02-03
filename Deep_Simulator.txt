@@ -1,0 +1,6 @@
+Title: DeepSimulator: a deep simulator for Nanopore Sequencing
+
+Abstract:
+- Currently available simulators for Oxford Nanopore Sequencing are simple
+- DeepSimulator mimics the entire pipeline of Nanopore sequencing
+- Useful for developing tools in de novo assembly and in low coverage SNP detection
