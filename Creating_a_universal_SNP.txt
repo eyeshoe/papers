@@ -6,4 +6,18 @@ Abstract:
 - Goal is to build a more accurate SNP variant caller
 
 Main Text:
-- 
+- Regular NGS reads are errorful and result from a complex error process that depends on a lot of factors
+- GATK uses statistical modeling
+- This paper is going for a single Deep Learning model --> this is DeepVariant
+- Model was trained without specialized knowledge about genomics or NGS
+- Still more successful than other models, it competed better too
+- Can apply models learned from one version of human genome to other ones
+- DeepVariant is robust to protocols, instruments, genomes and species
+- DeepVariant performs well on Genome in a Bottle data, but it's not an indicator of everything
+- This is better for a generalizable process rather than the usually laborious NGS process
+- Data is likely applicable for other processes
+
+Limitations:
+- Rewritted DeepVariant since this paper was released
+- Switched to TensorFlow, saw major improvements
+- Code is on github 
