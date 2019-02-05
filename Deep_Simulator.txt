@@ -4,3 +4,12 @@ Abstract:
 - Currently available simulators for Oxford Nanopore Sequencing are simple
 - DeepSimulator mimics the entire pipeline of Nanopore sequencing
 - Useful for developing tools in de novo assembly and in low coverage SNP detection
+
+Introduction:
+- NGS techniques include Illumina, Nanopore and PacBio
+- Data analysis tools are also emerging and better
+- Not a good enough simulator yet, needs to be natural for Nanopore sequencing
+- DeepSimulator mimics the entire process pipeline and is context dependent
+
+Materials and methods:
+- 
