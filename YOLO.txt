@@ -1,0 +1,9 @@
+Title: You Only Look Once- Unified, Real-Time Object Detection
+
+Abstract:
+- New approach to object detection
+- Using bounding boxes to detect objects rather than classification
+- Outperforms DPM and R-CNN when generalizing on testing images
+
+Introduction:
+- 
