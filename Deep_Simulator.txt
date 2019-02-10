@@ -12,4 +12,16 @@ Introduction:
 - DeepSimulator mimics the entire process pipeline and is context dependent
 
 Materials and methods:
-- 
+- Three stages of nanopore sequencing, need to go through all 3
+- Need to account for a lot of error when determining the length of a read
+- Built a pore model in consideration of context
+- Used a Bi-LSTM Neural Network Architecture --> this becomes the pore model
+- Used 4 nanopore sequencing datasets
+
+Results:
+- DeepSimulator satisfies all criteria for success --> length distribution, similar signals, and same profile reads
+- Used Dynamic Time Warping to confirm a lot of these results
+- This is going to be useful in de novo assembly
+
+Conclusion:
+- There are advantages to using DeepSimulator to simulate Nanopore Sequencing 
