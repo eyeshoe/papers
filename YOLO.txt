@@ -6,4 +6,12 @@ Abstract:
 - Outperforms DPM and R-CNN when generalizing on testing images
 
 Introduction:
-- 
+- Sliding window and R-CNN are slow and not optimized enough
+- YOLO means you only look at an image once
+- A single conv net predicts multiple bounding boxes and associated probabilities
+- Can process streaming video in real time, more than twice mean avg precision
+- Less background errors b/c it sees the entire image
+- Sometimes it doesn't precisely localize objects that well
+
+Unified Detection:
+- - 
