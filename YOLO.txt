@@ -14,4 +14,7 @@ Introduction:
 - Sometimes it doesn't precisely localize objects that well
 
 Unified Detection:
-- - 
+- Single network, predicts all bounding boxes for an image
+- Each grid cell predicts confidence, x, y, w, h and eventually class
+- Divide the image into S*S grid
+- d 
