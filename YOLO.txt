@@ -17,4 +17,11 @@ Unified Detection:
 - Single network, predicts all bounding boxes for an image
 - Each grid cell predicts confidence, x, y, w, h and eventually class
 - Divide the image into S*S grid
-- d 
+- Implement model as a CNN, evaluate on PASCAL VOC dataset
+- Fast YOLO vs YOLO: mostly the same, fewer conv layers in fast version
+- Multiple bounding boxes based on anchors, max prob suppression too
+- Yolo has spatial constraints on bounding box predictions
+- Doesn't generalize well to objects in new aspect ratios
+
+Comparison to Other Detection Systems:
+- 
