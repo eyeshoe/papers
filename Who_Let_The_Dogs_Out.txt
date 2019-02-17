@@ -1,0 +1,9 @@
+Title: Who let the dogs out? Modeling Dog Behavior from Visual Data
+
+Abstract:
+- Task: directly modeling a visually intelligent agent
+- DECADE: a dataset of ego-centric videos from a dog's perspective
+- Representation can generalize to other domains
+
+Introduction:
+- 
