@@ -24,4 +24,15 @@ Unified Detection:
 - Doesn't generalize well to objects in new aspect ratios
 
 Comparison to Other Detection Systems:
-- 
+- YOLO is typically faster, and more cohesive. Also is easier to tune. 
+- YOLO is also real time, which is different from other systems
+
+Experiments:
+- Examined error analysis and time
+- Looked at the VOC dataset
+
+Real-Time Detection In The Wild:
+- when attached to a webcam it also characterizes things well
+
+Conclusion:
+- General purpose object detection and fast version 
