@@ -12,4 +12,9 @@ Introduction:
 - Three main problems: learn to act like a dog, learn to plan like a dog, do representation learning
 
 Related Work:
+- There's no work in this exact area, lots of similar work in other areas
+- These pieces range around the idea of motivation prediction and appearance prediction
+- Includes topics like supervised learning, inverse reinforcement learning etc.
+
+Dataset:
 -  
