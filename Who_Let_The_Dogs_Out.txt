@@ -6,4 +6,10 @@ Abstract:
 - Representation can generalize to other domains
 
 Introduction:
-- 
+- Visual intelligence: understanding visual data to the extent that an agent can take actions and perform tasks in the visual world
+- Goal is to learn to act like the visually intelligent agent
+- Using a dog, have a specific dataset
+- Three main problems: learn to act like a dog, learn to plan like a dog, do representation learning
+
+Related Work:
+-  
