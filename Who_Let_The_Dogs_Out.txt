@@ -17,4 +17,27 @@ Related Work:
 - Includes topics like supervised learning, inverse reinforcement learning etc.
 
 Dataset:
--  
+-DECADE is a dataset of ego-centric dog video and joint movements
+- Used a GoPro camera 
+- Outdoor and indoor scenes
+
+Acting like a dog:
+- Model the future images the dog sees based on the previous images
+- Classification problem
+- Encoder, decoder problem with a CNN and LSTM
+- Decoder outputs models of 6 actions per timestep
+
+Planning like a dog:
+- Plan a sequence of steps that the dog would use to get from first frame to second frame
+- Trying to predict an action sequence
+
+Learning from a dog:
+- Learning image representations, using ResNet
+
+Experiments:
+- Evaluation based on accuracy of predictions
+- Implementation uses kmeans, quaternion angles
+- Evaluation based on class accuracy and perplexity
+
+Conclusion:
+- First step towards end-to-end modeling
