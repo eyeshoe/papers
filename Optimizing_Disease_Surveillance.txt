@@ -5,4 +5,10 @@ Abstract:
 - Blockchain system is optimized, maintains costs and is more efficient
 
 Introduction:
-- 
+- Blockchain: distributed ledgers for safekeeping info. No centralized management
+- Bitcoin uses blockchain, some health records could also
+- Disease monitoring systems can also use it --> aggregate large amounts of data and report back
+- Key features pointed out in the paper
+
+Architecture:
+-  
