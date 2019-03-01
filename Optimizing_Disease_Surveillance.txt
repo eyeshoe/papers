@@ -11,4 +11,13 @@ Introduction:
 - Key features pointed out in the paper
 
 Architecture:
--  
+- Distributed ledger systems are blockchaines or DAGS
+- Using DAG architecture here
+- Nodes, addresses and transactions 
+- Signing a transaction by way of private keys
+- Validation algorithm
+- Can't create fake reports without stealing private keys
+- This system architecture fulfills all of the key features noted earlier
+
+Deployment:
+-   
