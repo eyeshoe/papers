@@ -20,4 +20,8 @@ Architecture:
 - This system architecture fulfills all of the key features noted earlier
 
 Deployment:
--   
+- Can also be deployed on linear blockchain platform
+- Pros and cons to using the DAG architecture
+
+Discussion and Conclusion:
+-    
