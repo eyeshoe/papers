@@ -24,4 +24,7 @@ Deployment:
 - Pros and cons to using the DAG architecture
 
 Discussion and Conclusion:
--    
+- Distributed storage of database is better for disease detection
+- Drawback is lack of support for smart contracts
+- Only for first stage disease surveillance
+    
