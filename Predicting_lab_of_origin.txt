@@ -1,1 +1,9 @@
 Title: Deep learning to predict the lab-of-origin of engineered DNA
+
+Abstract:
+- Can cinstruct cells for malicious intent
+- Need to determine the origin of a DNA strand, but it's time consuming
+- CNN, identifieds a combination of design choices used to mark DNA
+
+Experiment:
+- 
