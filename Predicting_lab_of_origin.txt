@@ -11,4 +11,8 @@ Experiment:
 - Train a CNN to predict the lab of origin
 
 Results:
-- 
+- Used the addgene dataset
+- Input to CNN is DNA sequence encoded in a matrix
+- After training, the CNN can rapidly analyze data streams
+- Cross validation accuracy of 48%
+-  
