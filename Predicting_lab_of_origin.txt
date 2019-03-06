@@ -6,4 +6,9 @@ Abstract:
 - CNN, identifieds a combination of design choices used to mark DNA
 
 Experiment:
+- Many design choices leave signatures in the DNA: codon pairs etc.
+- Scar sequences from construction methods, silent mutations across projects
+- Train a CNN to predict the lab of origin
+
+Results:
 - 
