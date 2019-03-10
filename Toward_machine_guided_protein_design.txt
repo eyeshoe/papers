@@ -1,0 +1,9 @@
+Title: Toward machine-guided design of proteins
+
+Abstract:
+- Supervised learning can be used to improve protein design
+- Hybrid optimization strategy potentially: wet lab and validation stages
+- Directed evolution??
+
+Introduction:
+- 
