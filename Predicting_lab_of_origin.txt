@@ -15,4 +15,10 @@ Results:
 - Input to CNN is DNA sequence encoded in a matrix
 - After training, the CNN can rapidly analyze data streams
 - Cross validation accuracy of 48%
--  
+- Can compare with BLAST too, slightly lower accuracy than CNN
+- Looked through analysis that the CNN did
+
+Discussion:
+- Engineered and natural sequences are becoming more different
+- This method provides clues in a lot of situations
+- This is a more sophisticated approach  
