@@ -6,4 +6,10 @@ Abstract:
 - Directed evolution??
 
 Introduction:
+- Protein engineering is useful for medicine, industrial purposes
+- Find a sequence that encodes a protein with a desired function
+- ML and wet lab experimentation
+- GFP protein (fluorescent) used to determine fitness of a sequence
+
+Biological Background:
 - 
