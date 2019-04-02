@@ -1,0 +1,14 @@
+Title: Next-Generation ML for Biological Networks
+
+Abstract:
+- ML can be used to study complex cellular systems
+- Primer on ML for life scientists
+
+Introduction:
+- Significant increase in datasets and the quality of data in them
+- ML is useful to learn patterns from data and develop a predictive model
+- Can find patterns that humans can't really see
+- Paper is exploring opportunities for ML in biological system analysis
+
+A Primer on ML:
+- 
