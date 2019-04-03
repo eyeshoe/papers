@@ -11,4 +11,15 @@ Introduction:
 - Paper is exploring opportunities for ML in biological system analysis
 
 A Primer on ML:
-- 
+- Generate predictive models based on algorithms and data
+- Input is features and labels
+- Can use supervised or unsupervised learning
+- Applying ML in Biological contexts means maybe no generalization
+- Performance is affected by multiple factors, not just data
+- DREAM challenges are a good place for ML stuff
+- Deep Learning is useful because of better performance on less data
+- Data transforms are learned by the machine
+- Drawback of Deep Learning is that it requires more data in general to be good
+
+Intersection of ML and Network Biology:
+-  
