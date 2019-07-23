@@ -1,0 +1,28 @@
+Title: Generating and Designing DNA with Deep Generative Models
+
+Abstract:
+- Three approaches to creating DNA sequences for a particular purpose. 
+- GAN, Deep Dream, Joint Procedure
+
+Introduction:
+- Deep Dream is activation maximization
+- Can use GANs for a lot of stuff in genomics
+- Overall Goal: create synthetic DNA sequencing and tune them
+
+Generative Design of DNA:
+- Generative modeling vs generative organization
+- Use one hot encodings
+- Goal of a generative model is to capture realistic structure
+- GANs have a generator and a discriminator
+- Train GANs using both real and synthetic data
+- GANs work better on continuous domains, recently they are alright on discrete sequences
+- This task is an optimization problem
+- Joint method is better because it does not ignore realism or typicality of data
+
+Computational Experiments:
+- Model learns DNA complementary base pairings
+- Designing DNA sequences with particualr affinities
+- Can optimize multiple properties (also competing) with the deep dream method
+
+Summary and Future Work:
+- There's a lot of useful places where you can use GANs in genomics and DNA stuff
